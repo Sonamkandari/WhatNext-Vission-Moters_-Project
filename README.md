@@ -107,7 +107,26 @@ veryfying if the trigger is working properly or not
 created  
 
 
+<img width="693" height="528" alt="image" src="https://github.com/user-attachments/assets/5bcbf227-20da-424e-a102-af769bbba9f5" />
+---
+reflecting what is the outcome of  these appex classes
+
+<img width="647" height="415" alt="image" src="https://github.com/user-attachments/assets/8d759f9b-f7fc-40f9-b22b-880989e4399b" />
+
+---
+we can see the vehicle status is confiremed
+<img width="641" height="419" alt="image" src="https://github.com/user-attachments/assets/2f412ec6-80d7-428f-a15c-ea15e0b715b7" />
+---
+ now here we can observe that the srock quantity is reduced to 299 from 300 hundred
+<img width="668" height="504" alt="image" src="https://github.com/user-attachments/assets/dd892dbc-31cc-482d-b836-cc9021c5beb7" />
+
+---
+
+If the stock Quntity is zero
 ![Uploading image.png…]()
+ this is also achieved through the apex triggers
+ ---
+
 
 
 
