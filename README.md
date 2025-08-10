@@ -62,6 +62,8 @@ creating fields for all the objects which we had created previously
 
 ---
 6. Successfully created all the fields for Vehicle Test Drive
+   <img width="933" height="606" alt="image" src="https://github.com/user-attachments/assets/b306b35b-9a90-48a8-af0c-6b37ed0857be" />
+
 
 ---
 
