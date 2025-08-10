@@ -35,4 +35,9 @@ Choose the items to include in the app, and arrange the order in which they appe
 
 <img width="867" height="706" alt="image" src="https://github.com/user-attachments/assets/6c079f82-22f3-4d49-85ce-d4a8db56f722" />
 
+After this add profile of System Administrator and after completing all the above steps we will successfully able to create the aap
+<img width="825" height="421" alt="image" src="https://github.com/user-attachments/assets/f5e9121b-32d5-45d5-971b-bea5d95d30cc" />
 
+
+
+---
