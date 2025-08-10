@@ -1,7 +1,7 @@
-## WhatNext-Vission-Moters_-Project
+# WhatNext-Vission-Moters_-Project
 WhatNext Vission Moters: Shaping the Future of Mobility With Innovation and Excellence
 ---
-# Creating Custom objects -> |Custum objects are those objects which can be modified by the developer and the user|
+## Creating Custom objects -> |Custum objects are those objects which can be modified by the developer and the user|
 1. Vehicle
 2. Vehicle Dealer
 3. Vehicle Customer
@@ -24,7 +24,7 @@ created  all the six tabs for all the objects
 
    <img width="917" height="697" alt="image" src="https://github.com/user-attachments/assets/103a59b8-1648-459d-9b58-d22c0b0affd4" />
 ---
-## Data Management and aap management
+# Data Management and aap management
 through App manager we are creating a new lightning aap
 
 <img width="928" height="350" alt="image" src="https://github.com/user-attachments/assets/582cd0e2-e161-4672-8b07-89eab673ec2e" />
@@ -126,6 +126,16 @@ If the stock Quntity is zero
 ![Uploading image.png…]()
  this is also achieved through the apex triggers
  ---
+Creating a Batch class
+
+Your batch job currently fetches pending vehicle orders without any sort order.
+You can sort them by adding an ORDER BY clause in the query.
+Sorting options include:
+Newest first (by creation date descending)
+Oldest first (by creation date ascending)
+By priority or other custom fields
+Sorting ensures consistent and predictable processing order in batches.
+
 
 
 
