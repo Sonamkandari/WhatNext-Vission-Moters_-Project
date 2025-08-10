@@ -97,4 +97,20 @@ veryfing if they are working correctly or not
 After saving we will see that a dealear is automatically assingned 
 
 <img width="930" height="498" alt="image" src="https://github.com/user-attachments/assets/f7e7e817-0790-4101-9299-53f2279cff53" />
+---
+# Creating record triggered flow to send an email to the customer reminding about the teat drive
+<img width="802" height="259" alt="image" src="https://github.com/user-attachments/assets/0bf44cf2-3b20-44e3-a2ec-ca60354a17d5" />
+veryfying if the trigger is working properly or not
+
+---
+# Apex classes
+created  
+
+
+![Uploading image.png…]()
+
+
+
+
+
 
