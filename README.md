@@ -89,7 +89,12 @@ Now i had Successfully created the record triggering flow  and activated the flo
 
 <img width="963" height="213" alt="image" src="https://github.com/user-attachments/assets/9dddd425-44a5-4e4a-9c2a-87b186bedd28" />
 
-<img width="948" height="639" alt="image" src="https://github.com/user-attachments/assets/1ab90eff-8c94-4ecc-85f5-87a7862a370a" />
-
 ---
+
+veryfing if they are working correctly or not
+<img width="769" height="522" alt="image" src="https://github.com/user-attachments/assets/0a57374a-ebf6-4e2a-a32a-58ba5c7575a5" />
+---
+After saving we will see that a dealear is automatically assingned 
+
+<img width="930" height="498" alt="image" src="https://github.com/user-attachments/assets/f7e7e817-0790-4101-9299-53f2279cff53" />
 
