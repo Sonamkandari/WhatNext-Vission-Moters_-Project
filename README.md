@@ -125,7 +125,7 @@ we can see the vehicle status is confiremed
 
 If the stock Quntity is zero
 
-![Uploading image.png…]()
+![Uploading image.png…]
 
  this is also achieved through the apex triggers
  ---
@@ -140,8 +140,8 @@ By priority or other custom fields
 Sorting ensures consistent and predictable processing order in batches.
 
 
-
-
+## live link
+https://orgfarm-0ad87e357b-dev-ed.develop.lightning.force.com/lightning/o/Vehicle_Customer__c/list?filterName=__Recent
 
 
 
