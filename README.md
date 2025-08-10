@@ -79,4 +79,10 @@ how it is lookin after completeion
 ---
 Creating a record Triggered flow to assign nearest dealer to the customer's location
 
+<img width="950" height="723" alt="image" src="https://github.com/user-attachments/assets/0b5a8006-bd01-440b-9568-6acadc29ddd4" />
+
+---
+<img width="943" height="729" alt="image" src="https://github.com/user-attachments/assets/3149ec92-bcee-4137-9d6e-7b87603f25e3" />
+---
+
 
