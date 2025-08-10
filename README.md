@@ -1,4 +1,5 @@
-# WhatNext-Vission-Moters_-Project
+# WhatNext-Vission-Moters_Salesforce_Project
+---
 WhatNext Vission Moters: Shaping the Future of Mobility With Innovation and Excellence
 ---
 ## Creating Custom objects -> |Custum objects are those objects which can be modified by the developer and the user|
@@ -123,7 +124,9 @@ we can see the vehicle status is confiremed
 ---
 
 If the stock Quntity is zero
+
 ![Uploading image.png…]()
+
  this is also achieved through the apex triggers
  ---
 Creating a Batch class
