@@ -85,4 +85,11 @@ Creating a record Triggered flow to assign nearest dealer to the customer's loca
 <img width="943" height="729" alt="image" src="https://github.com/user-attachments/assets/3149ec92-bcee-4137-9d6e-7b87603f25e3" />
 ---
 
+Now i had Successfully created the record triggering flow  and activated the flow so that it can triggered when we it had to required to triggere
+
+<img width="963" height="213" alt="image" src="https://github.com/user-attachments/assets/9dddd425-44a5-4e4a-9c2a-87b186bedd28" />
+
+<img width="948" height="639" alt="image" src="https://github.com/user-attachments/assets/1ab90eff-8c94-4ecc-85f5-87a7862a370a" />
+
+---
 
